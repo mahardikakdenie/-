@@ -83,7 +83,7 @@
                 <v-list-item-title>ADDRESS</v-list-item-title>
 
                 <v-list-item-subtitle>
-                  1234 WORLD DR. HERE, TX 76123
+                  https://github.com/kucingemas774/E-NEWS_V2_version
                 </v-list-item-subtitle>
               </v-list-item>
 
